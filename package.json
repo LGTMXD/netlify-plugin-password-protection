@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blairanderson/netlify-plugin-password-protection.git"
+    "url": "git+https://github.com/LGTMXD/netlify-plugin-password-protection.git"
   },
   "keywords": [
     "netlify",
@@ -23,7 +23,7 @@
     "password-protect"
   ],
   "bugs": {
-    "url": "https://github.com/blairanderson/netlify-plugin-password-protection/issues"
+    "url": "https://github.com/LGTMXD/netlify-plugin-password-protection/issues"
   },
-  "homepage": "https://github.com/blairanderson/netlify-plugin-password-protection#readme"
+  "homepage": "https://github.com/LGTMXD/netlify-plugin-password-protection#readme"
 }
